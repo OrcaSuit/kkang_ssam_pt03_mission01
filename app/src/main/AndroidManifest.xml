@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.kkang_ssam_pt02_mission3">
+    package="com.example.kkang_ssam_pt03_mission1">
 
     <application
         android:allowBackup="true"

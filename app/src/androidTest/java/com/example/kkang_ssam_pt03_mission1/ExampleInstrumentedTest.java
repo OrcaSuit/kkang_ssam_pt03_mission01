@@ -1,4 +1,4 @@
-package com.example.kkang_ssam_pt02_mission3;
+package com.example.kkang_ssam_pt03_mission1;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
